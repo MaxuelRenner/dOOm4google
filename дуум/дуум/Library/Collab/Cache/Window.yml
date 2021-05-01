@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/FPS/Art/HELL.png
+    - Assets/FPS/Art/HELL.png.meta
+    - Assets/FPS/Art/Materials/Level/Floor_DarkGrey.mat
+    - Assets/FPS/Art/Materials/Level/Floor_Grey.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains texture.jpg
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains texture.jpg.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains4.jpg
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains4.jpg.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains5.jpg
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Main Mountains5.jpg.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains texture.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains texture.mat.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains4.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains4.mat.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains5.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Main Mountains5.mat.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Plains texture.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/Plains texture.mat.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/plain2 texture.mat
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Materials/plain2 texture.mat.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/New folder]Lava_Land.mtl
+    - Assets/FPS/Prefabs/LavaLand_OBJ/New folder]Lava_Land.mtl.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/New folder]Lava_Land.obj
+    - Assets/FPS/Prefabs/LavaLand_OBJ/New folder]Lava_Land.obj.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Plains texture.jpg
+    - Assets/FPS/Prefabs/LavaLand_OBJ/Plains texture.jpg.meta
+    - Assets/FPS/Prefabs/LavaLand_OBJ/plain2 texture.jpg
+    - Assets/FPS/Prefabs/LavaLand_OBJ/plain2 texture.jpg.meta
+    - Assets/FPS/Prefabs/Level/Catwalk/Cat_Hall_Mix.prefab
+    - Assets/FPS/Prefabs/Level/Crawl/Crawl_Hall.prefab
+    - Assets/FPS/Prefabs/Level/Dungeon/Dun_Corner.prefab
+    - Assets/FPS/Prefabs/Level/Dungeon/Dun_Descent.prefab
+    - Assets/FPS/Prefabs/Level/Dungeon/Dun_Wall.prefab
+    - Assets/FPS/Prefabs/Level/Dungeon/Dun_Wall_Open.prefab
+    - Assets/FPS/Prefabs/Level/Dungeon/model.dae
+    - Assets/FPS/Prefabs/Level/Dungeon/model.dae.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/Section1/Observatory_Ramp.prefab
+    - Assets/FPS/Prefabs/Level/MainLvl/Section2/Entryway_Jumps.prefab
+    - Assets/FPS/Prefabs/Level/MainLvl/Section3/Pit_Walls.prefab
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/Materials.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/Materials/Lava.mat
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/Materials/Lava.mat.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/source.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/source/DUNGEON 3 BOSS ROOM
+      FBX.fbx
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/source/DUNGEON 3 BOSS ROOM
+      FBX.fbx.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/textures.meta
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/textures/Lava.jpeg
+    - Assets/FPS/Prefabs/Level/MainLvl/dark side of moon/textures/Lava.jpeg.meta
+    - Assets/FPS/Prefabs/Level/Walls/Wall_1m.prefab
+    - Assets/FPS/Prefabs/Level/Walls/Wall_4m.prefab
+    - Assets/FPS/Prefabs/Level/Walls/Wall_Corner.prefab
+    - Assets/FPS/Scenes/MainScene.unity
+    - Assets/FPS/Scenes/MainScene/NavMesh.asset
+    - Assets/FPS/Scenes/MainScene/NavMesh.asset.meta
+    - Assets/FPS/Scenes/MainSceneSettings.lighting
+    - Assets/FPS/Scenes/MainSceneSettings.lighting.meta
+    - Assets/FPS/Scenes/SecondaryScene.unity
+    - Assets/FPS/Scenes/SecondaryScene/NavMesh.asset
+    - Assets/FPS/Scenes/SecondarySceneSettings.lighting
+    - Assets/FPS/Scenes/SecondarySceneSettings.lighting.meta
+    - Assets/FPS/Scenes/ThirdScene.meta
+    - Assets/FPS/Scenes/ThirdScene.unity
+    - Assets/FPS/Scenes/ThirdScene.unity.meta
+    - Assets/FPS/Scenes/ThirdScene/NavMesh.asset
+    - Assets/FPS/Scenes/ThirdScene/NavMesh.asset.meta
+    - Assets/FPS/Scenes/ThirdSceneSettings.lighting
+    - Assets/FPS/Scenes/ThirdSceneSettings.lighting.meta
+    - Assets/FPS/Scenes/finalLevel.unity
+    - Assets/FPS/Scenes/finalLevel.unity.meta
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
